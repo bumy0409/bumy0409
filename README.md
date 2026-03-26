@@ -1,6 +1,6 @@
 ## JIN SEONG BEOM 👋
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatngus1691)](https://solved.ac/bumy0409/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bumy0409)](https://solved.ac/bumy0409/)
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
