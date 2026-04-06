@@ -85,6 +85,7 @@ AI 기반 커플 플랫폼 애플리케이션 AI Contact │ 팀 프로젝트
 
 <img width="300" height="570" alt="image" src="https://github.com/user-attachments/assets/696e02b4-2a56-42fe-b4f1-77ec9fa7315f" />  
 
+## Algorithm
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bumy0409)](https://solved.ac/bumy0409/)
 
