@@ -83,8 +83,9 @@ AI 기반 커플 플랫폼 애플리케이션 AI Contact │ 팀 프로젝트
 > - 관리자용 월간 심리 리포트 기능을 구현해 점수 변화와 요약 결과를 시각적으로 확인할 수 있도록 구성
 > - AI가 핵심 사용자 경험을 담당하는 서비스 구조를 구현해 최종 평가 2위를 달성
 
-<img width="300" height="570" alt="image" src="https://github.com/user-attachments/assets/696e02b4-2a56-42fe-b4f1-77ec9fa7315f" />
-<br>
+<img width="300" height="570" alt="image" src="https://github.com/user-attachments/assets/696e02b4-2a56-42fe-b4f1-77ec9fa7315f" />  
+
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bumy0409)](https://solved.ac/bumy0409/)
 
 <!--
