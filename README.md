@@ -1,6 +1,5 @@
 ## JIN SEONG BEOM 👋
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bumy0409)](https://solved.ac/bumy0409/)
 # 💪Skills
 ## Back-End
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -85,6 +84,8 @@ AI 기반 커플 플랫폼 애플리케이션 AI Contact │ 팀 프로젝트
 > - AI가 핵심 사용자 경험을 담당하는 서비스 구조를 구현해 최종 평가 2위를 달성
 
 <img width="300" height="570" alt="image" src="https://github.com/user-attachments/assets/696e02b4-2a56-42fe-b4f1-77ec9fa7315f" />
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bumy0409)](https://solved.ac/bumy0409/)
 
 <!--
 **bumy0409/bumy0409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
