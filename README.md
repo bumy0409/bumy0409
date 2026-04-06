@@ -23,9 +23,6 @@
 ![JIRA](https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
-
-<img width="731" height="368" alt="image" src="https://github.com/user-attachments/assets/67aa3d9a-572f-43a1-9ffe-adcd20015132" />
-
 ## Projects✨
 
 AI 기반 커플 플랫폼 애플리케이션 AI Contact │ 팀 프로젝트
@@ -42,6 +39,8 @@ AI 기반 커플 플랫폼 애플리케이션 AI Contact │ 팀 프로젝트
 > - Spring Boot와 JPA를 기반으로 도메인 중심 백엔드 구조를 설계하고 프론트엔드와 연동
 > - 발표와 포트폴리오 영상 제작을 담당하며 프로젝트 결과를 효과적으로 전달
 > - 최종 평가 1위를 달성하며 서비스 기획력과 구현 완성도를 인정받음
+
+<img width="731" height="368" alt="image" src="https://github.com/user-attachments/assets/67aa3d9a-572f-43a1-9ffe-adcd20015132" />
 
 
 <!--
