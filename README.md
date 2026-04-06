@@ -22,7 +22,7 @@
 ![JIRA](https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
-## Projects✨
+# Projects✨
 
 ### Ai Contact
 
