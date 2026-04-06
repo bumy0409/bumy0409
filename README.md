@@ -27,7 +27,8 @@
 
 AI 기반 커플 플랫폼 애플리케이션 AI Contact │ 팀 프로젝트
 
-> 기간 - 2025.07 ~ 2025.08 (7주)
+> 기간 - 2025.07 ~ 2025.08 (7주)  
+> 역할 - BackEnd  
 > 기술 - Java, Spring Boot, JPA, MySQL, React, AWS S3, OpenAI API, WebSocket
 
 프로젝트 상세
