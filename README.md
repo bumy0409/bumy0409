@@ -43,7 +43,7 @@ AI 기반 커플 플랫폼 애플리케이션 AI Contact │ 팀 프로젝트
 > - 발표와 포트폴리오 영상 제작을 담당하며 프로젝트 결과를 효과적으로 전달
 > - 최종 평가 1위를 달성하며 서비스 기획력과 구현 완성도를 인정받음
 
-<img width="731" height="368" alt="image" src="https://github.com/user-attachments/assets/67aa3d9a-572f-43a1-9ffe-adcd20015132" />
+<img width="1000" height="503" alt="image" src="https://github.com/user-attachments/assets/67aa3d9a-572f-43a1-9ffe-adcd20015132" />
 
 ### WuDong
 
