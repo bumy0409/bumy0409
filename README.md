@@ -65,7 +65,26 @@ AI 기반 커플 플랫폼 애플리케이션 AI Contact │ 팀 프로젝트
 
 <img width="1920" height="930" alt="동아리대시보드페이지" src="https://github.com/user-attachments/assets/d0b21d41-bf29-4e91-8a6e-a2dd1ac14f37" />
 
+### HAND
 
+스트레스 관리 플랫폼 HAND │ 팀 프로젝트
+
+> 기간 - 2025.10 ~ 2025.11 (7주)
+> 역할 - BackEnd
+> 기술 - Java, Spring Boot, JPA, MySQL, React, FastAPI, OpenAI API, STT/TTS, KcELECTRA, Weaviate
+
+프로젝트 상세
+
+> - STT, TTS, GPT를 연계해 사용자의 대화형 일기를 생성하고 감정 분석까지 이어지는 AI 기반 상담 흐름을 구현
+> - KcELECTRA 모델을 활용해 여섯 가지 감정 지표의 확률을 산출하고 이를 기반으로 오늘의 감정 점수 산정 기능을 개발
+> - 심박수, 피부온도, 걸음수 등 워치 기반 생체 데이터를 수집하고 이상치 횟수와 결합해 사용자 상태를 다각도로 분석
+> - 초기 3일간 개인 기준선 데이터를 생성해 사용자별 편차를 반영하는 맞춤형 분석 구조를 설계
+> - Weaviate를 활용해 벡터 기반 검색과 Rerank 구조를 적용하고 근거 기반 조언을 생성할 수 있는 흐름을 구현
+> - 조언 품질 평가 로직을 도입해 일정 기준 이상의 결과만 저장하도록 설계하며 데이터 신뢰도를 높임
+> - 관리자용 월간 심리 리포트 기능을 구현해 점수 변화와 요약 결과를 시각적으로 확인할 수 있도록 구성
+> - AI가 핵심 사용자 경험을 담당하는 서비스 구조를 구현해 최종 평가 2위를 달성
+
+<img width="1080" height="2051" alt="image" src="https://github.com/user-attachments/assets/696e02b4-2a56-42fe-b4f1-77ec9fa7315f" />
 
 <!--
 **bumy0409/bumy0409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
