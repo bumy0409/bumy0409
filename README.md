@@ -25,6 +25,8 @@
 
 ## Projects✨
 
+### Ai Contact
+
 AI 기반 커플 플랫폼 애플리케이션 AI Contact │ 팀 프로젝트
 
 > 기간 - 2025.07 ~ 2025.08 (7주)  
@@ -42,6 +44,8 @@ AI 기반 커플 플랫폼 애플리케이션 AI Contact │ 팀 프로젝트
 > - 최종 평가 1위를 달성하며 서비스 기획력과 구현 완성도를 인정받음
 
 <img width="731" height="368" alt="image" src="https://github.com/user-attachments/assets/67aa3d9a-572f-43a1-9ffe-adcd20015132" />
+
+### WuDong
 
 동아리 운영 플랫폼 우동 │ 팀 프로젝트
 
