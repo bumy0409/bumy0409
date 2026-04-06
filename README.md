@@ -49,8 +49,8 @@ AI 기반 커플 플랫폼 애플리케이션 AI Contact │ 팀 프로젝트
 
 동아리 운영 플랫폼 우동 │ 팀 프로젝트
 
-> 기간 - 2025.08 ~ 2025.09 (7주)
-> 역할 - BackEnd
+> 기간 - 2025.08 ~ 2025.09 (7주)  
+> 역할 - BackEnd  
 > 기술 - Java, Spring Boot, JPA, MySQL, React, WebSocket, SSAFY 금융망 API
 
 프로젝트 상세
@@ -69,8 +69,8 @@ AI 기반 커플 플랫폼 애플리케이션 AI Contact │ 팀 프로젝트
 
 스트레스 관리 플랫폼 HAND │ 팀 프로젝트
 
-> 기간 - 2025.10 ~ 2025.11 (7주)
-> 역할 - BackEnd
+> 기간 - 2025.10 ~ 2025.11 (7주)  
+> 역할 - BackEnd  
 > 기술 - Java, Spring Boot, JPA, MySQL, React, FastAPI, OpenAI API, STT/TTS, KcELECTRA, Weaviate
 
 프로젝트 상세
