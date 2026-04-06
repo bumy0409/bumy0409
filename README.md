@@ -43,6 +43,25 @@ AI 기반 커플 플랫폼 애플리케이션 AI Contact │ 팀 프로젝트
 
 <img width="731" height="368" alt="image" src="https://github.com/user-attachments/assets/67aa3d9a-572f-43a1-9ffe-adcd20015132" />
 
+동아리 운영 플랫폼 우동 │ 팀 프로젝트
+
+> 기간 - 2025.08 ~ 2025.09 (7주)
+> 역할 - BackEnd
+> 기술 - Java, Spring Boot, JPA, MySQL, React, WebSocket, SSAFY 금융망 API
+
+프로젝트 상세
+
+> - 회원, 동아리, 회비, 정산, 참여 이력, 권한, 알림, 포인트 등을 포함한 약 30개 테이블 규모의 ERD를 직접 설계
+> - Spring Boot와 JPA를 기반으로 동아리 운영 전반을 관리할 수 있는 도메인 중심 백엔드 구조를 구현
+> - 동아리 가입, 일정 관리, 공지, 회비 관리, 정산 등 실제 운영 흐름을 반영한 핵심 기능을 개발
+> - 채팅 기능과 정산 프로세스를 연결해 사용자 간 상호작용과 운영 편의성을 높이는 구조를 설계
+> - 금융망 API를 연동해 계좌 생성과 이체 기능을 구현하며 서비스 확장성을 확보
+> - 요구사항 변경 시 정규화·반정규화 관점에서 구조를 재검토하고 팀원들과 변경 방향을 공유하며 협업 진행
+> - 약 90개 화면과 12개 주요 기능 규모의 프로젝트를 7주 내 완성했으며 최종 평가 2위를 달성
+
+<img width="1920" height="930" alt="동아리대시보드페이지" src="https://github.com/user-attachments/assets/d0b21d41-bf29-4e91-8a6e-a2dd1ac14f37" />
+
+
 
 <!--
 **bumy0409/bumy0409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
